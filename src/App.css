@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+#pageBackground {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  background-color: #0a192f;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
